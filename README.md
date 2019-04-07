@@ -68,7 +68,9 @@ A while ago, before I knew better, I started a project on Flask and did not real
 - Looks to be specifically designed for data sciene and analytics!
 
 [Top 11 Python Frameworks in 2018](https://stackify.com/python-frameworks/)
+
 [Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
+
 ---
 
 ### Markdown
